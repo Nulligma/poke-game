@@ -1,0 +1,13 @@
+{
+  "name": "monorepo-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r dev",
+    "test:all": "pnpm -r test"
+  },
+  "keywords": [],
+  "author": "shantanu kulkarni",
+  "license": "ISC"
+}

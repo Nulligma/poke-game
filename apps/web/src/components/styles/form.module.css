@@ -1,0 +1,16 @@
+.create{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    align-items: center;
+    background-color: #6b6b6b;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    input,button{
+        padding: 1rem;
+        border-radius: 0.5rem;
+    }
+    .title{
+        flex:1;
+    }
+}

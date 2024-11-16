@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  background-color: #333;
+  border-radius: 1rem;
+}
+
+.read-the-docs {
+  color: #888;
+}
