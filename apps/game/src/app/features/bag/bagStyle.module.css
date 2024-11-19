@@ -1,0 +1,30 @@
+.bag {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1rem;
+
+    *{
+        padding: 1rem;
+    }
+
+    .coins {
+        background-color: gold;
+        color: #000;
+    }
+
+    .balls {
+        background-color: red;
+        color: white;
+
+        button{
+            margin-left: 10px;
+        }
+    }
+
+    .caught {
+        background-color: blue;
+        color: wheat;
+        border-radius: 0;
+    }
+}

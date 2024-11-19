@@ -5,4 +5,6 @@ export type Workspace = {
 
 export * as Schema from "./schema/database";
 
+export * as Pk from "./schema/pokemon";
+
 export * as Api from "./api/response";

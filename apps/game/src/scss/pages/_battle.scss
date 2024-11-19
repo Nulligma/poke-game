@@ -1,0 +1,31 @@
+.battle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+  h1 {
+    font-size: 4rem;
+  }
+  h2 {
+    font-size: 3rem;
+  }
+  h3 {
+    font-size: 2.5rem;
+  }
+  h4 {
+    font-size: 1.25rem;
+  }
+  button {
+    padding: 1rem;
+  }
+  .container {
+    width: 200px;
+    height: 200px;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
